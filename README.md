@@ -10,6 +10,7 @@ po wykonaniu ma wyglądać następująco:
 N. (*) Ćwiczenie do wykonania.
 ```
 
+Zadania do wykonania
 Zadanie 1. Zmień miejscami ćwiczenia których treść kończy się znakami `(+)` (numeracja powinna pozostać poprawna).
 Zadanie 2. Zmień numerowanie w tym pliku tak, aby numeracja zaczynała się od 1.
 Zadanie 3. Zmień listę w taki sposób, aby zdania zaczynały się z wielkiej litery (sama treść ćwiczenia ma się zaczynać z wielkiej litery, nie słowa `Zadanie N`). (+)
