@@ -10,7 +10,6 @@ po wykonaniu ma wyglądać następująco:
 N. (*) Ćwiczenie do wykonania.
 ```
 
-
 Zadanie 1. Zmień miejscami ćwiczenia których treść kończy się znakami `(+)` (numeracja powinna pozostać poprawna).
 Zadanie 2. Zmień numerowanie w tym pliku tak, aby numeracja zaczynała się od 1.
 Zadanie 3. Zmień listę w taki sposób, aby zdania zaczynały się z wielkiej litery (sama treść ćwiczenia ma się zaczynać z wielkiej litery, nie słowa `Zadanie N`). (+)
@@ -20,3 +19,4 @@ Zadanie 6. Zodaj informację numerach albumów członków zespołu w dowolny mie
 Zadanie 7. Zodaj słowa `Zadania do wykonania` przed listą ćwiczeń.
 Zadanie 8. (numeracja powinna pozostać poprawna).Zmień nagłówek z `git-intro` na `Wstęp do gita`. (-)
 
+numery albumów członków zespołów: 138129,131962,134172
