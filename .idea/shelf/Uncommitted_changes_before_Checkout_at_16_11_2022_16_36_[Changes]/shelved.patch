@@ -1,0 +1,30 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># git-intro\r\n\r\nPo wykonaniu danego ćwiczenia poprzedź je znakami (*).\r\nPrzykładowo ćwiczenie przed wykonaniem wyglądające następująco:\r\n```\r\nN. Ćwiczenie do wykonania.\r\n```\r\npo wykonaniu ma wyglądać następująco:\r\n```\r\nN. (*) Ćwiczenie do wykonania.\r\n```\r\n\r\n1. zmień miejscami ćwiczenia których treść kończy się znakami `(+)` (numeracja powinna pozostać poprawna).\r\n2. zmień numerowanie w tym pliku tak, aby numeracja zaczynała się od 1.\r\n3. zmień punkty w taki sposób aby ich treść zamiast zaczynać się od numeru ćwiczenia `N.` zaczynała się od słów `Zadanie N.`. (+)\r\n4. zmień listę w taki sposób, aby zdania zaczynały się z wielkiej litery (sama treść ćwiczenia ma się zaczynać z wielkiej litery, nie słowa `Zadanie N`). (+)\r\n5. zmień nagłówek z `git-intro` na `Wstęp do gita`. (-)\r\n6. zmień miejscami ćwiczenia których treść kończy się znakami `(-)` (numeracja powinna pozostać poprawna).\r\n7. dodaj słowa `Zadania do wykonania` przed listą ćwiczeń.\r\n8. dodaj informację numerach albumów członków zespołu w dowolny miejscu tego dokumentu (wraz z informację, że są to numery albumów członków zespołu) (-)\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.md b/README.md
+--- a/README.md	(revision 31e9cd44aadbe60a6e41a9afe821ec0924c3abdb)
++++ b/README.md	(date 1668613003188)
+@@ -10,11 +10,11 @@
+ N. (*) Ćwiczenie do wykonania.
+ ```
+ 
+-1. zmień miejscami ćwiczenia których treść kończy się znakami `(+)` (numeracja powinna pozostać poprawna).
+-2. zmień numerowanie w tym pliku tak, aby numeracja zaczynała się od 1.
+-3. zmień punkty w taki sposób aby ich treść zamiast zaczynać się od numeru ćwiczenia `N.` zaczynała się od słów `Zadanie N.`. (+)
+-4. zmień listę w taki sposób, aby zdania zaczynały się z wielkiej litery (sama treść ćwiczenia ma się zaczynać z wielkiej litery, nie słowa `Zadanie N`). (+)
+-5. zmień nagłówek z `git-intro` na `Wstęp do gita`. (-)
+-6. zmień miejscami ćwiczenia których treść kończy się znakami `(-)` (numeracja powinna pozostać poprawna).
+-7. dodaj słowa `Zadania do wykonania` przed listą ćwiczeń.
+-8. dodaj informację numerach albumów członków zespołu w dowolny miejscu tego dokumentu (wraz z informację, że są to numery albumów członków zespołu) (-)
++2. zmień miejscami ćwiczenia których treść kończy się znakami `(+)` (numeracja powinna pozostać poprawna).
++3. zmień numerowanie w tym pliku tak, aby numeracja zaczynała się od 1.
++4. zmień punkty w taki sposób aby ich treść zamiast zaczynać się od numeru ćwiczenia `N.` zaczynała się od słów `Zadanie N.`. (+)
++5. zmień listę w taki sposób, aby zdania zaczynały się z wielkiej litery (sama treść ćwiczenia ma się zaczynać z wielkiej litery, nie słowa `Zadanie N`). (+)
++6. zmień nagłówek z `git-intro` na `Wstęp do gita`. (-)
++7. zmień miejscami ćwiczenia których treść kończy się znakami `(-)` (numeracja powinna pozostać poprawna).
++8. dodaj słowa `Zadania do wykonania` przed listą ćwiczeń.
++9. dodaj informację numerach albumów członków zespołu w dowolny miejscu tego dokumentu (wraz z informację, że są to numery albumów członków zespołu) (-)
